@@ -11,4 +11,13 @@ Benefits to App/Web-Based Companies:
 5.	Optimize Marketing Campaigns: Utilize insights from churn analysis to create more effective and personalized marketing campaigns.
 6.	Make Data-Driven Decisions: Advanced analytics to make informed business decisions and improve overall operational efficiency.
 
+# Results:
+
+1. Number of customers that will show churn: Predicted by XGBoost Machine learning model
+    
+![Screenshot (50)](https://github.com/user-attachments/assets/8259edf9-8813-4a7e-9d75-bbf94ccbb95c)
+
+Figure 1: 0 denotes the people that will show churn and 1 denotes the number of peoples will not show churn.
+
+
    
